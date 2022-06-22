@@ -1,0 +1,35 @@
+.cate-image{
+    width: 70px;
+    height: 70px;
+}
+.cate-image-lg{
+    width: 200px;
+    height: 200px;
+}
+.form-select{
+    display: block;
+    width: 100%;
+    padding: .375rem 2.25rem .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: black;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: .25rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active{
+    background-color: rgba(255,255,255,.9);
+    color: #343a40;
+}
+
+.job-details-table td{
+    padding: 6px 10px;
+}
